@@ -1,4 +1,4 @@
-# os-ticket-lifecycle
+# os-Ticket-lifecycle
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
@@ -47,7 +47,7 @@ Sev B
 <img src="https://imgur.com/FkHVgAE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-dashboard
+Dashboard
 </p>
 <br />
 
@@ -55,7 +55,7 @@ dashboard
 <img src="https://imgur.com/xdshNuR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-solved critical issue
+Solved Critical issue
 </p>
 <br />
 
@@ -63,7 +63,7 @@ solved critical issue
 <img src="https://imgur.com/Bm4sY06.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-solved adobe update
+Solved Adobe update
 </p>
 <br />
 
